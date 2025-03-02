@@ -1,8 +1,18 @@
 {
-  "title": "Welcome to Duvall TV",
-  "banner1": "https://raw.githubusercontent.com/SpongeBombMG/DTVAPP/main/banner1.png",
-  "bannertext1": "Watch Latest Episode of DuvallTV Here!",
-  "banner2": "https://raw.githubusercontent.com/SpongeBombMG/DTVAPP/main/banner2.png",
-  "bannertext2": "We Built A Massive Corn Maze!",
-  "image2": "https://raw.githubusercontent.com/username/repo/main/image2.png"
+  "Title": "Event One Text",
+  "Title1": "Event One Text",
+  "Title2": "Event One Text",
+  "EVENT1": "Event One Text",
+  "EVENT2": "Event One Text",
+  "EVENT3": "Event One Text",
+  "EVENT4": "Event One Text",
+  "EVENT4": "Event One Text",
+  "EVENT5": "Event One Text",
+  "EVENT6": "Event One Text",
+  "EVENT1": "Event One Text",
+  "EVENT1": "Event One Text",
+  "EVENT2": "Event Two Text",
+  "EVENT3": "Three",
+  "EVENT4": "https://raw.githubusercontent.com/username/repo/main/image1.png",
+  "EVENT5": "https://raw.githubusercontent.com/username/repo/main/image2.png"
 }
